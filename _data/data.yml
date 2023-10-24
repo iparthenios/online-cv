@@ -34,22 +34,22 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Greek
           level: Native
 
-        - idiom: French
+        - idiom: English
           level: Professional
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: Iatalian
+          level: Fluent
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Theater
           link:
 
-        - item: Snowboarding
+        - item: Dance
           link:
 
         - item: Cooking
