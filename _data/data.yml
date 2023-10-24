@@ -65,10 +65,10 @@ career-profile:
       Τεχνολογία conveys this hidden characteristic: Τεχνη(ο)λογία 
 
       
-      sfdfdfdf
-      dfdfdfdf
-      dfd
-      fdfdfdfdfd
+      My teaching experience spans a lifetime of 25 years. I had the opportunity to cooperate in
+      the development of the Greek School Network by serving as the Head of the deparmebt of 
+      Informatics and New technologies of the Messinia region. The last 7 years I was appointed as a Headmaster in
+      Secondary Education Schools.
       
 education:
     title: Education
@@ -77,24 +77,16 @@ education:
         university: University of Edinburgh
         time: 1992 - 1994
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Specialisation in:
+            - Distributed Systems
+            - Parallel Systems
       - degree: BSc in Mathematics
         university: University of Patras
         time: 1983 - 1988
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Specialised in
+            - Numerical Analysis
+            - Programming
 
 experiences:
     title: Experiences
