@@ -4,6 +4,27 @@
 
 <!-- custom js -->
 <script type="text/javascript" src="{{site.baseurl}}/assets/js/main.js"></script>
+<script>
+        document.getElementById('convertButton').addEventListener('click', function() {
+            // Replace 'YOUR_API_KEY' with your actual API key
+            var apiKey = 'c432b5403df93e9327af60969ada6574';
+            var urlToConvert = 'https://iparthenios.github.io/online-cv/'; // Replace with the URL you want to convert
+
+            // Make an API request to pdflayer
+            var pdflayerURL = 'http://api.pdflayer.com/api/convert
+
+    ? access_key = c432b5403df93e9327af60969ada6574
+    & document_url = https://iparthenios.github.io/online-cv/
+    & page_size = A4
+    & margin_top = 
+    & margin_bottom = 
+    & margin_left = 
+    & margin_right = ';
+
+            // Open the converted PDF in a new tab
+            window.open(pdflayerURL);
+        });
+    </script>
 
 {% if site.analytics %}
   {% include analytics.html %}
