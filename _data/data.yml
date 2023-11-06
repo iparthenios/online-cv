@@ -89,11 +89,11 @@ education:
             - Programming
 
 experiences:
-    title: Experiences
+    title: Educational Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Computer Science Teacher
+        time: 1994 - Present
+        company: Υπουργείο Παιδείας
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
