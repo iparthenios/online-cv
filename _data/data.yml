@@ -91,9 +91,9 @@ education:
 experiences:
     title: Experiences
     info:
-    role:  
+    - role:  
     time: 1994 - Present
-        company:
+        company: test
         details: |
           - Teacher of Informatics, Secondary Education
           
