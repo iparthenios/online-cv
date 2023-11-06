@@ -111,43 +111,26 @@ experiences:
 certifications:
       title: Επαγγελματική Εμπειρία
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
+        - name: ΚΑΘΗΚΟΝΤΑ ΥΠΕΥΘΥΝΟΥ ΚΕ.ΠΛΗ.ΝΕ.Τ.
+          start: 1996
+          end: 2010
+          organization: Δ/ΝΣΗ ΔΕ ΜΕΣΣΗΝΙΑΣ
           credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+          credentialurl: dide.mes.sch.gr
+          credentialname: DIDEMES
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            ΑΝΑΠΤΥΞΗ – ΥΠΟΣΤΗΡΙΞΗ ΕΡΓΑΣΤΗΡΙΩΝ ΚΑΙ ΔΙΚΤΥΩΝ ΠΡΩΤΟΒΑΘΜΙΑΣ ΚΑΙ ΔΕΥΤΕΡΟΒΑΘΜΙΑΣ ΕΚΠΑΙΔΕΥΣΗΣ (πλήθος: 200 εργαστήρια με τοπικά δίκτυα και σύνδεση στο Internet)
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+            Κατά την διάρκεια της άσκησης των καθηκόντων μου ως Υπεύθυνος ΚΕΠΛΗΝΕΤ Μεσσηνίας εργάστηκα για την Ανάπτυξη και Υποστήριξη των Σχολικών Εργαστηρίων και των Δικτύων του Νομού Μεσσηνίας σε 200 περίπου Σχολικές Μονάδες πρωτοβάθμιας και Δευτεροβάθμιας εκπαίδευσης
+        - name: ΥΠΕΥΘΥΝΟΣ ΑΝAΠΤΥΞΗΣ – ΥΠΟΣΤΗΡΙΞΗΣ 
+          start: 1988
+          end: 1992
+          organization: ACO HELLAS SA
+          credentialid: 
+          credentialurl: 
+          credentialname:
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Εργάστηκα ως Υπεύθυνος Ανάπτυξης και Υποστήριξης στην εταιρεία ACO HELLAS SA (Στουρνάρη 16, ΑΘΗΝΑ) υπό την διεύθυνση του μετέπειτα Προέδρου της ΜΚΟ «Το Χαμόγελο του Παιδιού» Κου Κώστα Γιαννόπουλου. Το Αντικείμενο εργασίας αφορούσε ανάπτυξη-υποστήριξη τεχνολογίας HEWLETT-PACKARD
 
 projects:
     title: Projects
