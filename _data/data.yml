@@ -101,27 +101,15 @@ experiences:
         time: 1994 - 2006
         company: TEI ΚΑΛΑΜΑΤΑΣ
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Διδασκαλία όλων των μαθημάτων Πληροφορικής
+      - role: ΕΚΠΑΙΔΕΥΤΗΣ ΠΛΗΡΟΦΟΡΙΚΗΣ ΙΝΕΠ ΤΟΥ ΕΘΝΙΚΟΥ ΚΕΝΤΡΟΥ ΔΗΜΟΣΙΑΣ ΔΙΟΙΚΗΣΗΣ ΚΑΙ ΑΥΤΟΔΙΟΙΚΗΣΗΣ
+        time: 2007 - 2014
+        company: ΙΝΕΠ, Αθήνα
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Εκπαίδευση Δημοσίων Υπαλλήλων στις Νέες Τεχνολογίες σε σειρά Σεμιναρίων οργανωμένα υπό την αιγίδα του Ινστιτούτου Επιμόρφωσης του Εθνικού Κέντρου Δημόσιας διοίκησης και Αυτοδιοίκησης
 
 certifications:
-      title: Certifications
+      title: Επαγγελματική Εμπειρία
       list:
         - name: CV Builder
           start: 2020
