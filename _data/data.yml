@@ -164,24 +164,22 @@ oss:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Δημοσιεύσεις με έμφαση στην Καινοτομία στην Εκπαίδευση
     papers:
       - title: Η προαγωγή της ψυχικής ανθεκτικότητας των μαθητών Γυμνασίου μέσω της εκπαιδευτικής δράσης STEΑM «Η μουσική και ο χορός των σεισμών όπως καταγράφονται από τον σεισμογράφο
         link: "#"
         authors: ΗΛΙΑΣ ΠΑΡΘΕΝΙΟΣ
         conference: Πανελλήνιο και Διεθνές Συνέδριο «Εκπαιδευτικοί & Εκπαίδευση STE(A)M”, 7-9 Μαϊου 2021 
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: "Η εξέλιξη των Φυσικών Επιστημών και της Τεχνολογίας μέσω του Ανοιχτού Σχολείου"
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: ΗΛΙΑΣ ΠΑΡΘΕΝΙΟΣ
+        conference: Πανελλήνιο Συνέδριο Ένωσης Ελλήνων Φυσικών, 22-23 Ιανουαρίου 2021 "
 
-      - title: A syntax directed compiler for Algol 60
+      - title: "Διαδικτυακές εφαρμογές και διαθεματική προσέγγιση Ερευνητικής Εργασίας στο Γενικό Λύκειο: Η περίπτωση του Tango Argentino"
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: ΗΛΙΑΣ ΠΑΡΘΕΝΙΟΣ
+        conference: "20ο Διεθνές Συνέδριο Κοινωνική Παιδαγωγική, Διαπολιτισμικότητα, Συμβουλευτική και Ειδική Αγωγή"
 
 skills:
     title: Skills &amp; Proficiency
