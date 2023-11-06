@@ -135,13 +135,11 @@ certifications:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Συμμετοχή σε εμβληματικά για την εκπαίδευση projects
     assignments:
-      - title: Velocity
+      - title: WiFi Kalamata Schools
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "•	Εγκατάσταση και υποστήριξη του πρώτου  Ασύρματου δικτύου WIFI σε σχολεία της Ελλάδας, στα σχολεία της Καλαμάτας"
 
       - title: DevStudio
         link: "#"
